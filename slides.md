@@ -3,14 +3,14 @@ marp: true
 theme: default
 paginate: true
 backgroundImage: url('LMU_Logo_RGB_InvertiertSchwarz.png')
-backgroundPosition: top right
+backgroundPosition: 99% 1%
 backgroundSize: 250px
 style: |
     :root {
         --heading-strong-color: inherit;
         }
     section {
-        font-family: 'Helvetica', 'FiraCode Nerd Font', 'Liberation Sans', 'Arial', sans-serif;
+        font-family: 'Poppins', 'FiraCode Nerd Font', 'Liberation Sans', 'Arial', sans-serif;
     }
     img[alt~="center"] {
       display: block;
@@ -21,20 +21,33 @@ style: |
         top: 0px;
         right: 0px;
     }
+    img[alt~="bottomright"] {
+        display: block;
+        top: 100px;
+        right: 100px;
+    }
     h1 {
         font-size: 2em;
     }
 _class: lead
 _paginate: false
 ---
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')
+</style>
+
+<!-- backgroundImage: -->
 
 # **Next generation detector operations with augmented reality**
 
-**Lorenz Gaertner** (LMU) on behalf of
+**Lorenz Gärtner** (LMU) on behalf of
 **Thomas Kuhr** (LMU), **Stephan Paul** (TUM), 
 **Hans-Günther Moser** (MPP), **Jochen Kuhn** (LMU)
 
+![bg 100% right:30%](https://www.origins-cluster.de/fileadmin/user_upload/Logos/Logo_Origins_RGB.png)
+
 ---
+<!-- backgroundImage: url('LMU_Logo_RGB_InvertiertSchwarz.png') -->
 
 # How to get things fixed?
 
@@ -49,24 +62,29 @@ Does it move?
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ![bg 70%](https://miro.medium.com/v2/resize:fit:720/format:webp/0*k7SKKyyBpytE9jw4.jpg)
 
 ---
-![width:250px topright](LMU_Logo_RGB_InvertiertSchwarz.png)
+<!-- ![width:250px topright](LMU_Logo_RGB_InvertiertSchwarz.png) -->
 
 ![bg](https://blogimages.softwaresuggest.com/blog/wp-content/uploads/2020/03/23192305/9-Free-Screen-Sharing-Software-for-Remote-Workers-1.png)
 
 ---
 
-<!-- color: white -->
-<!-- align: center -->
-
-<h1>
+<h1 style="color:white;">
     <center>
         What if we want to fix this?
     </center>
-<h1>
+</h1>
+</br>
 </br>
 </br>
 </br>
@@ -75,21 +93,19 @@ Does it move?
 
 ---
 
-<!-- color: black -->
-
 # So far ...
 
-- bring experts to site (**high cost**)
-- communication with experts via text / audio (**low quality**)
+- Bring experts to site &mdash; **high cost**
+- Communication with experts via text / audio &mdash; **low quality**
 
 ![bg](https://flyxo.com/_next/image/?url=https%3A%2F%2Fwebsite-cdn.flyxo.com%2Fdata%2Fwebapi%2FC350_shot_01_FRONT_2_1_0d070083f3_22922f431b.png&w=3840&q=75)
 
 ---
 # AR approach
 
-enhance quality of communication with off-site experts
+Enhance quality of communication with off-site experts
 
-![bg right:60%](https://smartfactory.edag.com/wp-content/uploads/2021/02/safety.jpg)
+![bg right:55%](https://smartfactory.edag.com/wp-content/uploads/2021/02/safety.jpg)
 
 ---
 
@@ -97,20 +113,33 @@ enhance quality of communication with off-site experts
 
 - Live audio-visual communication
 - Hands-free work for on-site worker
-- Additional information from experts via pointing / drawing
+- Experts can point/ draw
 
-![bg right:45%](https://www.korecgroup.com/wp-content/uploads/2020/02/MR_TCH-Collaborate.png)
+:heavy_plus_sign: Efficiency
+:heavy_plus_sign: Speed
+:heavy_minus_sign: Human error
+
+![bg right:55%](https://miro.medium.com/v2/resize:fit:720/format:webp/0*9rq5h05WWCl9lvdv.jpg)
 
 ---
 
-# Previous use case
+<h1 style="color:white;">
+    <center>
+        Fermilab &mdash; CERN
+        </br>
+        A successful use case
+    </center>
+</h1>
+</br>
+
+![bg](https://cerncourier.com/wp-content/uploads/2019/09/CCMagnets-LHC_quadrupole.jpg)
 
 ---
 
 # Cost
 
-- Trimble XR10 with HoloLens 2 5400€ 
-- Get expert to site
+- Trimble XR10 with HoloLens 2
+- Experts on-site
   - large travel cost
   - massive environmental impact
   - very time consuming
@@ -130,4 +159,15 @@ If technology meets the needs for remote assistance...
 
 ---
 
+<!-- color: white -->
+
 # Summary
+
+- Remote repairs using AR
+- Already widely used in science & industry
+- Potential for massive reduction in cost and environmental impact
+
+:white_check_mark: More efficient and reliable detector operation
+:white_check_mark: Improved data in particle physics
+
+![bg brightness:0.3](https://assets.newatlas.com/dims4/default/bac0b2b/2147483647/strip/true/crop/1440x554+0+0/resize/1440x554!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Flhc-10years-8.jpg)
