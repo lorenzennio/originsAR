@@ -42,7 +42,8 @@ _paginate: false
 
 **Lorenz Gärtner** (LMU) on behalf of
 **Thomas Kuhr** (LMU), **Stephan Paul** (TUM), 
-**Hans-Günther Moser** (MPP), **Jochen Kuhn** (LMU)
+**Hans-Günther Moser** (MPP), **Jochen Kuhn** (LMU),
+**Christian Ailg** (VR-Lab)
 
 ![bg 100% right:30%](https://www.origins-cluster.de/fileadmin/user_upload/Logos/Logo_Origins_RGB.png)
 
@@ -171,3 +172,18 @@ If technology meets the needs for remote assistance...
 :white_check_mark: Improved data in particle physics
 
 ![bg brightness:0.3](https://assets.newatlas.com/dims4/default/bac0b2b/2147483647/strip/true/crop/1440x554+0+0/resize/1440x554!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Farchive%2Flhc-10years-8.jpg)
+
+---
+
+<!-- color:  -->
+
+# Budget plan
+
+| Total budget needs            |               |
+| :---------------------------- | ------------: |
+| Trimble XR10 with HoloLens2   | 5400€         |
+| Student assistan (9 months)   | 4500€         |
+| Software liscences            | 800€          | 
+| **Total**                     | **10700€**    |
+
+![bg 100% right:40%](https://berlinrealities.com/wp-content/uploads/2021/07/trimble-xr-10-hololens-ar-brille.png)
