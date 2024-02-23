@@ -56,6 +56,9 @@ Does it move?
 - Yes &rarr; send to expert
 - No  &rarr; get expert
 
+![bg right:55%](https://media01.stockfood.com/largepreviews/MzY4Mjk5NDY4/11880628-Astronauts-spacewalk-to-repair-Hubble-telescope.jpg)
+<!-- ![bg right](https://spectrum.ieee.org/media-library/image.png?id=25585851) -->
+
 ---
 
 # For software
@@ -74,7 +77,21 @@ Does it move?
 ![bg 70%](https://miro.medium.com/v2/resize:fit:720/format:webp/0*k7SKKyyBpytE9jw4.jpg)
 
 ---
-<!-- ![width:250px topright](LMU_Logo_RGB_InvertiertSchwarz.png) -->
+
+# ... or just screen-share
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ![bg](https://blogimages.softwaresuggest.com/blog/wp-content/uploads/2020/03/23192305/9-Free-Screen-Sharing-Software-for-Remote-Workers-1.png)
 
@@ -120,6 +137,8 @@ Enhance quality of communication with off-site experts
 :heavy_plus_sign: Speed
 :heavy_minus_sign: Human error
 
+<!-- ![bg right:55%](https://oculavis.de/img/videos/tube/20210119_JulianHermle/1600x900_en.jpg) -->
+<!-- ![bg right:55%](https://oculavis.de/img/videos/tube/20210119_JulianHermle/1600x900_en.jpg) -->
 ![bg right:55%](https://miro.medium.com/v2/resize:fit:720/format:webp/0*9rq5h05WWCl9lvdv.jpg)
 
 ---
