@@ -97,7 +97,7 @@ Does it move?
 
 ---
 
-<h1 style="color:white;">
+<h1 style="color:white; font-size:70px;" >
     <center>
         What if we want to fix this?
     </center>
@@ -135,7 +135,7 @@ Enhance quality of communication with off-site experts
 
 :heavy_plus_sign: Efficiency
 :heavy_plus_sign: Speed
-:heavy_minus_sign: Human error
+:heavy_plus_sign: Fewer errors
 
 <!-- ![bg right:55%](https://oculavis.de/img/videos/tube/20210119_JulianHermle/1600x900_en.jpg) -->
 <!-- ![bg right:55%](https://oculavis.de/img/videos/tube/20210119_JulianHermle/1600x900_en.jpg) -->
@@ -143,7 +143,7 @@ Enhance quality of communication with off-site experts
 
 ---
 
-<h1 style="color:white;">
+<h1 style="color:white; font-size:70px">
     <center>
         Fermilab &mdash; CERN
         </br>
