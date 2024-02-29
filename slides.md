@@ -71,10 +71,13 @@ Does it move?
 </br>
 </br>
 </br>
-</br>
-</br>
 
-![bg 70%](https://miro.medium.com/v2/resize:fit:720/format:webp/0*k7SKKyyBpytE9jw4.jpg)
+
+## + remotes
+
+<!-- ![bg 70%](https://miro.medium.com/v2/resize:fit:720/format:webp/0*k7SKKyyBpytE9jw4.jpg) -->
+
+![bg 60%](Git-Logo-1788C.svg)
 
 ---
 
@@ -108,6 +111,21 @@ Does it move?
 </br>
 
 ![bg](https://www.oeaw.ac.at/fileadmin/Institute/HEPHY/IMG/institute/forschung/csm_PIC00055_2cbf26027e.jpg)
+
+---
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+# 28 countries involved
+
+![bg ](MapChartMap.svg)
 
 ---
 
