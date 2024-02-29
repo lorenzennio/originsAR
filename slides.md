@@ -131,7 +131,7 @@ Does it move?
 
 # So far ...
 
-- Bring experts to site &mdash; **high cost**
+- Bring experts to site &mdash; **high cost, time**
 - Communication with experts via text / audio &mdash; **low quality**
 
 ![bg](https://flyxo.com/_next/image/?url=https%3A%2F%2Fwebsite-cdn.flyxo.com%2Fdata%2Fwebapi%2FC350_shot_01_FRONT_2_1_0d070083f3_22922f431b.png&w=3840&q=75)
@@ -139,7 +139,7 @@ Does it move?
 ---
 # AR approach
 
-Enhance quality of communication with off-site experts
+Enhance quality of communication with experts
 
 ![bg right:55%](https://smartfactory.edag.com/wp-content/uploads/2021/02/safety.jpg)
 
@@ -148,8 +148,8 @@ Enhance quality of communication with off-site experts
 # Benefits
 
 - Live audio-visual communication
-- Hands-free work for on-site worker
-- Experts can point/ draw
+- Hands-free work
+- Experts can point / draw
 
 :heavy_plus_sign: Efficiency
 :heavy_plus_sign: Speed
@@ -158,6 +158,19 @@ Enhance quality of communication with off-site experts
 <!-- ![bg right:55%](https://oculavis.de/img/videos/tube/20210119_JulianHermle/1600x900_en.jpg) -->
 <!-- ![bg right:55%](https://oculavis.de/img/videos/tube/20210119_JulianHermle/1600x900_en.jpg) -->
 ![bg right:55%](https://miro.medium.com/v2/resize:fit:720/format:webp/0*9rq5h05WWCl9lvdv.jpg)
+
+---
+
+# Cost comparison
+
+- Experts on-site
+  - large travel cost
+  - massive environmental impact
+  - very time consuming
+- AR glasses 
+(Trimble XR10 with HoloLens 2)
+
+![bg 100% right:40%](https://berlinrealities.com/wp-content/uploads/2021/07/trimble-xr-10-hololens-ar-brille.png)
 
 ---
 
@@ -174,24 +187,12 @@ Enhance quality of communication with off-site experts
 
 ---
 
-# Cost
-
-- Trimble XR10 with HoloLens 2
-- Experts on-site
-  - large travel cost
-  - massive environmental impact
-  - very time consuming
-
-![bg 100% right](https://berlinrealities.com/wp-content/uploads/2021/07/trimble-xr-10-hololens-ar-brille.png)
-
----
-
 # Scalability
 
 If technology meets the needs for remote assistance...
 
-- AR technology is readily available.
-- CERN experiments can directly benefit from Belle II test case.
+- AR readily available
+- CERN experiments can directly benefit from Belle II test case
 
 ![bg right](https://cms.cern/sites/default/files/2022-06/detector_stripe01-min_0_0.jpeg)
 
@@ -201,9 +202,9 @@ If technology meets the needs for remote assistance...
 
 # Summary
 
-- Remote repairs using AR
+- Remote detector repairs using AR
 - Already widely used in science & industry
-- Potential for massive reduction in cost and environmental impact
+- Potential for massive reduction in time, cost and environmental impact
 
 :white_check_mark: More efficient and reliable detector operation
 :white_check_mark: Improved data in particle physics
