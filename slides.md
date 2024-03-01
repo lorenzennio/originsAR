@@ -52,7 +52,7 @@ _paginate: false
 
 # How to get things fixed?
 
-Does it move?
+Does it easily move?
 - Yes &rarr; send to expert
 - No  &rarr; get expert
 
@@ -129,7 +129,7 @@ Does it move?
 
 ---
 
-# So far ...
+# If something breaks ...
 
 - Bring experts to site &mdash; **high cost, time**
 - Communication with experts via text / audio &mdash; **low quality**
@@ -203,7 +203,7 @@ If technology meets the needs for remote assistance...
 # Summary
 
 - Remote detector repairs using AR
-- Already widely used in science & industry
+- Bulid on use-cases in science & industry
 - Potential for massive reduction in time, cost and environmental impact
 
 :white_check_mark: More efficient and reliable detector operation
